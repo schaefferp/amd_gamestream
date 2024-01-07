@@ -113,7 +113,7 @@ This modification is sensitive security-wise, use at your own risks and check wh
 
 ## HDR and colourspaces note
 
-You may experience funny colours on the virtual display when using multiple HDR displays and a colourspace (P709) different of the Virtual Display (10-bit/P2020).
+You may experience funny neon colours on the virtual display when using multiple HDR displays and a colourspace (P709) different of the Virtual Display (10-bit/P2020).
 
 You can check this within Sunshine logs, when launching Sunshine on your main screen and Virtual Display, if you see these colourspaces are different, then I fixed this with this setting in Sunshine's conf :
 
