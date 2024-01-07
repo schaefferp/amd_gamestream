@@ -3,6 +3,8 @@
 
 You want to rock your epic 4k HDR 120 Hz OLED in the living room and squeeze every bit of power from your computer through your gigabit LAN ?
 
+Software-only solution, no dummy HDMI plug. No EDID flashing.
+
 Here is a little how-to DIY stream.
 
 ## What is needed
