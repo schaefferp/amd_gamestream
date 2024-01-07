@@ -57,7 +57,8 @@ There are 2 ways of setting the monitors with Monitor Tools :
 `C:\MultiMonitor\MultiMonitorTool.exe /SaveConfig gaming.conf`
 
 - Disable the display in the System > Display window and set things back to normal.
-Then open a command line and use :
+
+- Then open a command line and use :
 `C:\MultiMonitor\MultiMonitorTool.exe /SaveConfig standard.conf`
 
 We'll use MultiMonitor to switch between those profiles.
